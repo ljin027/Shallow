@@ -1,0 +1,16 @@
+
+{
+	"Name": "dimension 2",
+	"Hierarchies":
+	[
+		{
+			"Name": "dimension 2",
+			"Elements": 
+			[
+				{
+					"Name": "element 2"
+				}	
+			]
+		}	
+	]
+}
