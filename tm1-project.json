@@ -1,25 +1,5 @@
 {
 	"Version": "1.0",
-	"Tasks":
-	{
-		"task 1": 
-		{
-			"Process": "Processes('process 2')",
-			"Parameters": 
-			{
-				"P0": 1,
-				"P1": 2
-			},
-			"Dependencies": 
-			[
-				"Tasks('task 2')"
-			]
-		},
-		"task 2": 
-		{
-			"Process": "Processes('process 1')"
-		}
-	},
 	"Objects": 
 	{
 		"Cubes('cube 2')": 
@@ -27,7 +7,6 @@
 			"Link": "/not_a_default_folder/cube 2.json",
 			"Dependencies": 
 			[ 
-				"Tasks('task 1')",
 				"Cubes('cube 1')"
 			]
 		}
