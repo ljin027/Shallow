@@ -29,7 +29,6 @@
         {
             "Dependencies": 
 			[ 
-				"Cubes('cube 2')",
                 "Tasks('task 3')"
 			]
         },
