@@ -23,7 +23,7 @@
 			"Dependencies": 
 			[ 
 				"Cubes('cube 1')",
-                "Tasks('task 1')"
+                "Tasks('task 2')"
 			]
 		}
 	}
