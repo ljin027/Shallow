@@ -1,0 +1,12 @@
+
+{
+  "Name":"process 1",
+  "PrologProcedure@tm1-source.link":"processes\\process 1.prolog.ti",
+  "MetadataProcedure@tm1-source.link":"processes\\process 1.metadata.ti",
+  "DataProcedure@tm1-source.link":"processes\\process 1.data.ti",
+  "EpilogProcedure@tm1-source.link":"processes\\process 1.epilog.ti",
+  "DataSource":
+  {
+    "Type":"None"
+  }
+}
