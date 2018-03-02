@@ -1,0 +1,1 @@
+{"Version": "1.0","Tasks":{"task 1": {"Process": "Processes('process 1')"},"task 2": {"Process": "Processes('process 2')","Dependencies": ["Tasks('task 1')"]},"task 3": {"Process": "Processes('process 1')","Dependencies": ["Tasks('task 2')"]}},"Objects": {"Cubes('cube 2')": {"Link": "/not_a_default_folder/cube 2.json","Dependencies": [ "Cubes('cube 1')","Tasks('task 2')"]}}}

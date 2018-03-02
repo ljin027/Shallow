@@ -3,6 +3,6 @@
   "DefaultHierarchy@odata.bind":"Dimensions('dimension%202')/Hierarchies('dimension%202')",
   "Hierarchies@tm1-source.link":
   [
-    "\\dimensions\\hierarchies\\dimension 2.json"
+    "\\dimensions\\dimension 2.hierarchies\\dimension 2.json"
   ]
 }
