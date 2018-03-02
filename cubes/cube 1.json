@@ -1,9 +1,8 @@
-
 {
   "Name":"cube 1",
   "Dimensions@odata.bind":
   [
-    "Cubes('cube 1')/Dimensions('dimension 1')"
-    ,"Cubes('cube 1')/Dimensions('dimension 2')"
+    "Cubes('cube 1')/Dimensions('dimension 1')",
+    "Cubes('cube 1')/Dimensions('dimension 2')"
   ]
 }

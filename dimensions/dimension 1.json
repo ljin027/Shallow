@@ -1,0 +1,8 @@
+{
+  "Name":"dimension 1",
+  "DefaultHierarchy@odata.bind":"Dimensions('dimension%201')/Hierarchies('dimension%201')",
+  "Hierarchies@tm1-source.link":
+  [
+    "\\dimensions\\hierarchies\\dimension 1.json"
+  ]
+}

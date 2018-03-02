@@ -1,0 +1,9 @@
+{
+  "Name":"dimension 1","Elements":
+  [
+    {
+      "Name":"element 1",
+      "Type":"Numeric"
+    }
+  ]
+}
