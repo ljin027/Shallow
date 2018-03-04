@@ -1,15 +1,15 @@
 {
-	"Name": "dimension 1",
-	"Hierarchies":
-	[
-		{
-			"Name": "dimension 1",
-			"Elements": 
-			[
-				{
-					"Name": "element 1"
-				}	
-			]
-		}	
-	]
+    "Name": "dimension 1",
+    "Hierarchies":
+    [
+        {
+            "Name": "dimension 1",
+            "Elements": 
+            [
+                {
+                    "Name": "element 1"
+                }    
+            ]
+        }    
+    ]
 }

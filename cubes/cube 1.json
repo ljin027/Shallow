@@ -1,8 +1,9 @@
 {
-	"Name": "cube 1",
-	"Dimensions@odata.bind":
-	[
-		"Dimensions('dimension 1')",
-		"Dimensions('dimension 2')"
-	]
+    "Name": "cube 1",
+    "Rules@tm1-source.link": "\\cubes\\cube 1.rules",
+    "Dimensions@odata.bind":
+    [
+        "Dimensions('dimension 1')",
+        "Dimensions('dimension 2')"
+    ]
 }
